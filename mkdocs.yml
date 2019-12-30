@@ -4,6 +4,6 @@ nav:
     - Installation: installation.md
     - Getting Started: getting_started.md
 
-theme: cinder
+theme: readthedocs 
   
 
